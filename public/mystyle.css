@@ -1,0 +1,9 @@
+.btn-link:hover {
+    opacity: 0.8;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.ad {
+    max-width: 60%;
+}
